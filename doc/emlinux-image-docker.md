@@ -33,7 +33,7 @@
 1. Edit the following files.
    - If you have a proxy server, modify http-proxy.conf.
      ```sh
-     vim /home/emlinux/github/emlinux/bookworm/test/repos/meta-emlinux-flavors/recipes-core/configure-docker/files/ http-proxy.conf
+     vim /home/emlinux/github/emlinux/bookworm/test/repos/meta-emlinux-flavors/recipes-core/configure-docker/files/http-proxy.conf
      ```
      ```
      [Service]
