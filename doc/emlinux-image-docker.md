@@ -106,11 +106,11 @@
    ```
    $ ls -lh
    total 735M
-   -rw-r--r-- 1 emlinux emlinux 371K Oct  5 06:22 emlinux-image-mono-emlinux-bookworm-qemu-arm64.dpkg_status
-   -rw-r--r-- 1 emlinux emlinux 774M Oct  5 06:22 emlinux-image-mono-emlinux-bookworm-qemu-arm64.ext4
-   -rw-r--r-- 2 emlinux emlinux 9.2M Oct  5 06:22 emlinux-image-mono-emlinux-bookworm-qemu-arm64-initrd.img
-   -rw-r--r-- 1 emlinux emlinux  21K Oct  5 06:22 emlinux-image-mono-emlinux-bookworm-qemu-arm64.manifest
-   -rw-r--r-- 2 emlinux emlinux  37M Oct  5 06:22 emlinux-image-mono-emlinux-bookworm-qemu-arm64-vmlinux
+   -rw-r--r-- 1 emlinux emlinux 371K Oct  5 06:22 emlinux-image-docker-emlinux-bookworm-qemu-arm64.dpkg_status
+   -rw-r--r-- 1 emlinux emlinux 774M Oct  5 06:22 emlinux-image-docker-emlinux-bookworm-qemu-arm64.ext4
+   -rw-r--r-- 2 emlinux emlinux 9.2M Oct  5 06:22 emlinux-image-docker-emlinux-bookworm-qemu-arm64-initrd.img
+   -rw-r--r-- 1 emlinux emlinux  21K Oct  5 06:22 emlinux-image-docker-emlinux-bookworm-qemu-arm64.manifest
+   -rw-r--r-- 2 emlinux emlinux  37M Oct  5 06:22 emlinux-image-docker-emlinux-bookworm-qemu-arm64-vmlinux
    ```
 1. Create a TAP device using sudo user.
    ```sh
