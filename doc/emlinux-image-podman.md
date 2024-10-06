@@ -113,7 +113,7 @@
    - [MACHINE list](https://github.com/miraclelinux/meta-emlinux/tree/bookworm/conf/machine)
 1. Build EMLinux.
    ```sh
-   bitbake emlinux-image-mono
+   bitbake emlinux-image-podman
    ```
 1. Exit from the container.
    ```
